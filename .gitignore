@@ -1,0 +1,37 @@
+# Maven target folder
+/target/
+
+# IntelliJ IDEA files
+/.idea/
+/*.iml
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Compiled class files
+*.class
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Exclude Maven Wrapper files if not used
+/.mvn/
+mvnw
+mvnw.cmd
+
+# IDE index and working files
+/.vscode/
+/out/
+
+# Node modules (if used)
+node_modules/
+
+# Sensitive files (if applicable)
+application.properties
+application.yml
+.env
