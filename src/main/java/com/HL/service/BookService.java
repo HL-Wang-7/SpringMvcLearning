@@ -2,10 +2,12 @@ package com.HL.service;
 
 import com.HL.domain.Book;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-//@Service
+@Service
+@Transactional
 public interface BookService {
     /**
      * 保存
