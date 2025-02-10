@@ -1,9 +1,5 @@
 # 这是一个SpringMVC的学习项目
-# 这是一个SpringMVC的学习项目
-
 ## SSM整合
-66666
-
 1. **创建工程**
 2. **SSM整合**
     - **Spring**
