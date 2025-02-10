@@ -32,6 +32,7 @@ mvnw.cmd
 node_modules/
 
 # Sensitive files (if applicable)
-application.properties
-application.yml
+*.properties
+*.yml
 .env
+/src/main/resources/*.properties
